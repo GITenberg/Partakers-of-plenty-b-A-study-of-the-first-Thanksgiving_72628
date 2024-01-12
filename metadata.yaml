@@ -1,0 +1,29 @@
+_repo: Partakers-of-plenty-b-A-study-of-the-first-Thanksgiving_72628
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Anderson, Jay
+    gutenberg_agent_id: '56755'
+    url: http://www.gutenberg.org/2009/agents/56755
+  - agent_name: Deetz, James
+    gutenberg_agent_id: '56754'
+    url: http://www.gutenberg.org/2009/agents/56754
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72628'
+language: en
+pgterms:marc905: 20231119161659deetz
+pgterms:marc906: '1972'
+pgterms:marc907: US
+production_note: Bob Taylor, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aPlymouth, Mass. :$bPlimoth Plantation, $c1972.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Partakers of plenty : $b A study of the first Thanksgiving'
+url: http://www.gutenberg.org/ebooks/72628
