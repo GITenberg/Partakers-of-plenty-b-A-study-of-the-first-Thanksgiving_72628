@@ -1,5 +1,8 @@
 _repo: Partakers-of-plenty-b-A-study-of-the-first-Thanksgiving_72628
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72628-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Anderson, Jay
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56754'
     url: http://www.gutenberg.org/2009/agents/56754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72628#Partakers-of-plenty-b-A-study-of-the-first-Thanksgiving
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
